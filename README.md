@@ -9,7 +9,7 @@ A basic template mod for **PvZ Fusion** (a custom Plants vs. Zombies version by 
 ## Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/PvZ-Fusion-Template-Mod.git
+   git clone https://github.com/developer-cunningham/pvz-fusions-template-mod.git
    cd PvZ-Fusion-Template-Mod
    ```
 2. **Build the mod:** Open the project in a C# IDE (e.g., Visual Studio) and compile it.
