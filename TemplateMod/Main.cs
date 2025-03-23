@@ -14,6 +14,8 @@ namespace TemplateMod
         public override void OnInitializeMelon()
         {
             CoolguyLogger.Msg("Mod Started!");
+            CoolguyLogger.Error("example error");
+            CoolguyLogger.Warning("example warning");
         }
     }
 }
